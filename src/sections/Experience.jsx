@@ -1,13 +1,13 @@
 const timelineItems = [
     {
-        year: '2024',
+        year: '2025',
         title: 'Campus Connect Platform',
         description: 'Built and deployed a full-featured campus networking website with event management, club pages, and real-time collaboration features.',
         type: 'project',
         icon: '🚀',
     },
     {
-        year: '2024',
+        year: '2025',
         title: 'Virtual Art Gallery',
         description: 'Developed an immersive virtual gallery with 3D tours, role-based dashboards, and curated exhibitions using React and Three.js.',
         type: 'project',
@@ -20,22 +20,16 @@ const timelineItems = [
         type: 'achievement',
         icon: '🏆',
     },
+    ,
     {
-        year: '2023',
-        title: 'Started Full-Stack Journey',
-        description: 'Began learning React, Node.js, and modern CSS frameworks. Built first real-world projects and contributed to open-source.',
-        type: 'learning',
-        icon: '📚',
-    },
-    {
-        year: '2023',
+        year: '2024',
         title: 'Competitive Programming Start',
         description: 'Started competitive programming with C/C++, learning core algorithms, data structures, and problem-solving techniques.',
         type: 'learning',
         icon: '💡',
     },
     {
-        year: '2022',
+        year: '2024',
         title: 'College Journey Begins',
         description: 'Started pursuing computer science degree with a passion for coding, web development, and software engineering.',
         type: 'education',
