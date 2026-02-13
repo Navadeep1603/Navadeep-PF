@@ -13,7 +13,7 @@ export default function Contact() {
         // Open mailto with form data
         const subject = encodeURIComponent(`Portfolio Contact from ${formData.name}`);
         const body = encodeURIComponent(`Name: ${formData.name}\nEmail: ${formData.email}\n\n${formData.message}`);
-        window.open(`mailto:navadeep@gmail.com?subject=${subject}&body=${body}`, '_blank');
+        window.open(`mailto:challanavadeep8@gmail.com?subject=${subject}&body=${body}`, '_blank');
     };
 
     const contactInfo = [
@@ -24,8 +24,8 @@ export default function Contact() {
                 </svg>
             ),
             label: 'Email',
-            value: 'navadeep@gmail.com',
-            href: 'mailto:navadeep@gmail.com',
+            value: 'challanavadeep8@gmail.com',
+            href: 'mailto:challanavadeep8@gmail.com',
         },
         {
             icon: (
